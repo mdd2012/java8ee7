@@ -1,2 +1,3 @@
 # java8ee7
 java8とjavaee7勉強用リポジトリ
+基本的にeclpseプロジェクトを配置していく。
